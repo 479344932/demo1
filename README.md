@@ -19,5 +19,5 @@
 # 使用的打包构建工具 Ant
 # 使用的开发语言 js
 # 使用WebStorm 2016.3 前端开发工具
-# [案例地址:http://fg370.flash2x.org](http://fg370.flash2x.org/)
+# [案例地址:http://cases.flash2x.org/fg370](http://cases.flash2x.org/fg370)
 # 手机扫描二维码观看![手机扫描二维码观看](http://web.flash2x.org/Public/qr/fg370.png)
